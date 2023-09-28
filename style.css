@@ -1,0 +1,70 @@
+body {
+    font-family: Quicksand,sans-serif;
+    background-color: lightgray;
+    color: darkblue;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #0078d4;
+}
+
+a:hover,
+a:active {
+    color: white;
+    background-color: #0078d4;
+}
+
+#final {
+       text-align: center;
+    color: yellow;
+    display: block;
+    margin-top: 30px;
+}
+
+#topo {
+    text-align: center;
+    color: yellow;
+    display: block;
+    margin-top: 30px;
+}
+
+.redes-sociais {
+    list-style: none;
+    padding: 0;
+}
+
+.redes-sociais a {
+    text-decoration: none;
+    color: #0078d4;
+    align: center;
+}
+
+.redes-sociais a:hover,
+.redes-sociais a:active {
+    color: white;
+    background-color: #0078d4;
+}
+
+.github {
+    width: 30px;
+    height: 30px;
+    background: url('github.png') no-repeat;
+}
+
+.instagram {
+    width: 30px;
+    height: 30px;
+    background: url('instagram.png') no-repeat;
+}
